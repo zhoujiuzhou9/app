@@ -5,7 +5,7 @@
         <ion-buttons slot="start">
           <ion-back-button></ion-back-button>
         </ion-buttons>
-        <ion-title>button按钮组件演示</ion-title>
+        <ion-title>button按钮组件演示andre</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content>
